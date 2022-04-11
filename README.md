@@ -1,2 +1,2 @@
 # SQL-Assignments
-Assignments I completed in year 2 of the Computer Programming & Analysis course for SQL class 
+Assignments I completed in my sql class (computer programming & analysis course @ conestoga college) that demonstrate my knowledge of creating and altering tables, joining, selecting, updating and deleting relational data in a mysql database.
